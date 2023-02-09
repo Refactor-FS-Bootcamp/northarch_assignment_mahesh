@@ -1,0 +1,26 @@
+body{
+   
+    
+   background-color: pink;
+   background-repeat: no-repeat;
+   background-blend-mode: color-burn;
+   background-size: cover;
+   flex: 0.75;
+    
+}
+
+
+*{
+    top:30%;
+    left:20%;
+    
+}
+.custom-file{
+    margin-top: 50px;
+}
+.col-md-6{
+    margin-top: 50px;
+}
+.main{
+    margin-right: 20px;
+}
